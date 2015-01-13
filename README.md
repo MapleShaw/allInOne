@@ -22,6 +22,8 @@ reset样式  [点我](http://nicolasgallagher.com/about-normalize-css/ "normaliz
 
 ###JS快速获取图片宽高的方法
 只要判断高度大于零
+{% raw %}
+```
     // 图片地址
     var img_url = 'http://www.qttc.net/static/upload/2013/13643608813441.jpg?'+Date.parse(new Date());
     // 创建对象
@@ -39,3 +41,5 @@ reset样式  [点我](http://nicolasgallagher.com/about-normalize-css/ "normaliz
         // 取消定时获取宽高
         clearInterval(set);
     };
+```
+{% endraw %}
