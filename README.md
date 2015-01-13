@@ -5,24 +5,30 @@
 
 ####Hammer.js 移动设备触摸手势js库
 就几K，有机会试试  [点我](http://www.jingwentian.com/t-497 "不是官网")
-
+####fullpage
+其实桌面端也可以用  [点我](https://github.com/powy1993/fullpage)
+####snap scroll
+在移动端开发用过，但是感觉没有fullpage的可扩展性高  [点我](https://github.com/baofen14787/zepto-SnapScroll)
 
 ##PC端
+
+####One Page Scroll
+PC端开发使用过，兼容移动端  [点我](https://github.com/peachananr/onepage-scroll)
+####Beetle
+一个响应式HTML5模版  [点我](http://mokaine.com/beetle-free-html/)
 
 ##通用
 
 ####normalize.css
-reset样式  [点我](http://nicolasgallagher.com/about-normalize-css/ "normalize.css的官网"){:target="_blank"}
-####fullpage
-其实桌面端也可以用  [点我](https://github.com/powy1993/fullpage){:target="_blank"}
-####snap scroll
-在移动端开发用过，但是感觉没有fullpage的可扩展性高  [点我](https://github.com/baofen14787/zepto-SnapScroll){:target="_blank"}
-####One Page Scroll
-PC端开发使用过，兼容移动端  [点我](https://github.com/peachananr/onepage-scroll){:target="_blank"}
+reset样式  [点我](http://nicolasgallagher.com/about-normalize-css/ "normalize.css的官网")
+
+##字体
+####Font 屌
+
 
 ##一些资源链接
 
-[浅谈css框架开发](http://www.jingwentian.com/t-461){:target="_blank"}
+[浅谈css框架开发](http://www.jingwentian.com/t-461)
 
 ##一些代码块
 
