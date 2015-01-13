@@ -13,6 +13,12 @@
 
 ###normalize.css
 reset样式  [点我](http://nicolasgallagher.com/about-normalize-css/ "normalize.css的官网")
+###fullpage
+其实桌面端也可以用  [点我](https://github.com/powy1993/fullpage)
+###snap scroll
+在移动端开发用过，但是感觉没有fullpage的可扩展性高  [点我](https://github.com/baofen14787/zepto-SnapScroll)
+###One Page Scroll
+PC端开发使用过，兼容移动端  [点我](https://github.com/peachananr/onepage-scroll)
 
 ##一些资源链接
 
@@ -22,7 +28,6 @@ reset样式  [点我](http://nicolasgallagher.com/about-normalize-css/ "normaliz
 
 ###JS快速获取图片宽高的方法
 只要判断高度大于零
-{% raw %}
 ```
     // 图片地址
     var img_url = 'http://www.qttc.net/static/upload/2013/13643608813441.jpg?'+Date.parse(new Date());
@@ -42,4 +47,3 @@ reset样式  [点我](http://nicolasgallagher.com/about-normalize-css/ "normaliz
         clearInterval(set);
     };
 ```
-{% endraw %}
