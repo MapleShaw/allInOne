@@ -25,6 +25,11 @@ reset样式  [点我](http://nicolasgallagher.com/about-normalize-css/ "normaliz
 ##字体
 ####Font 屌
 
+##工具
+####weinre调试
+移动开发必备  [点我](http://qing.blog.sina.com.cn/tj/63fc66e0330010y2.html)
+####移动设备参数
+做个参考  [点我](http://screensiz.es/phone)
 
 ##一些资源链接
 
